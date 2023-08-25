@@ -1,1 +1,3 @@
-# -LGMVIP-Web-Task-2
+# Calculator
+
+The calculator is a web based application and by using the calculator we can perform many arithmetic operations such as addition, subtraction, multiplication, division etc...
